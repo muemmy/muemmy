@@ -1,6 +1,5 @@
 ### Hi, I am Emmy
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on A lot of things
 - 🌱 I’m currently learning why Assembly programmers die young.
